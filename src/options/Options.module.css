@@ -1,0 +1,15 @@
+.feedbackContainer {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+  }
+  
+  .feedbackBtn {
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    color: rgb(0, 0, 0);
+    background-color: rgba(170, 172, 173, 0.219);
+  }
+  .feedbackOff {
+    visibility: hidden;
+  }
